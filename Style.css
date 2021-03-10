@@ -19,7 +19,7 @@ body{
   
   
 .left-section{
-    background: url('IMG_1064.jpg');
+    background: url('./IMG_1064.jpg');
     height: 100vh;
     width: 87vh;
     grid-area: left-section;
